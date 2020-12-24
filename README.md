@@ -67,6 +67,6 @@ yarn start
 
 # Autor
 
-Rafael Nunes dos Santos
-Visite meu Site: - http://r6developer.com/
-https://www.linkedin.com/in/rafaelnunesdossantos/
+ - Rafael Nunes dos Santos
+ - Visite meu Site: - http://r6developer.com/
+ - https://www.linkedin.com/in/rafaelnunesdossantos/
