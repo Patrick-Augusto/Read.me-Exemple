@@ -15,7 +15,7 @@ Make here a comment about you project.
 
 ![Web 2](https://github.com/acenelio/assets/raw/main/sds1/web2.png)
 
-# technology used
+# technology
 ## Back end
 - Java
 - Spring Boot
